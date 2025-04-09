@@ -1,1 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on My website</title><link>https://sic-pilot08.github.io/</link><description>Recent content in Home on My website</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://sic-pilot08.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Sish Ahemmed Shozol</title><link>https://sic-pilot08.github.io/</link><description>Recent content in Home on Sish Ahemmed Shozol</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://sic-pilot08.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>👨‍💻 About Me</title><link>https://sic-pilot08.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sic-pilot08.github.io/about/</guid><description>&lt;h1 class="heading" id="sish-ahemmed-shozol">
+ Sish Ahemmed Shozol
+ &lt;a class="anchor" href="#sish-ahemmed-shozol">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;strong>B.Sc. in Statistics&lt;/strong>&lt;br>
+&lt;strong>Khulna University, Bangladesh&lt;/strong>&lt;br>
+🎓 B.Sc. in Statistics — CGPA: 3.75/4.00 (Passed with distinction)&lt;br>
+📅 Graduated: January 2025&lt;br>
+📧 &lt;a href="mailto:sishahemmed102@gmail.com">sishahemmed102@gmail.com&lt;/a> | 🌐 &lt;a href="https://linkedin.com/in/sishahammedshozol">LinkedIn&lt;/a> | 📊 &lt;a href="https://www.kaggle.com/shozol">Kaggle&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 class="heading" id="-skills">
+ 🔧 Skills
+ &lt;a class="anchor" href="#-skills">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;strong>Languages:&lt;/strong> Python, R, SQL, C/C++&lt;br>
+&lt;strong>ML/DS:&lt;/strong> Pandas, NumPy, Scikit-learn, TensorFlow, Keras, BERT, LDA, LIME&lt;br>
+&lt;strong>Data Tools:&lt;/strong> BeautifulSoup4, SNscrape, Newspaper3k, SPSS&lt;br>
+&lt;strong>Visualization:&lt;/strong> Matplotlib, Seaborn, Plotly&lt;br>
+&lt;strong>Other Tools:&lt;/strong> Git, Jupyter, LaTeX, VS Code, Google Colab&lt;/p>
+&lt;hr>
+&lt;h2 class="heading" id="-education">
+ 🎓 Education
+ &lt;a class="anchor" href="#-education">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;strong>Khulna University&lt;/strong> — B.Sc. in Statistics&lt;br>
+&lt;em>Jan 2021 – Jan 2025&lt;/em>&lt;/p></description></item><item><title>📚 Publications</title><link>https://sic-pilot08.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sic-pilot08.github.io/publications/</guid><description>&lt;h3 class="heading" id="1-framing-cancer-in-media-analyzing-risk-communication-in-newspaper-reporting">
+ 1. &lt;strong>Framing Cancer in Media: Analyzing Risk Communication in Newspaper Reporting&lt;/strong>
+ &lt;a class="anchor" href="#1-framing-cancer-in-media-analyzing-risk-communication-in-newspaper-reporting">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Authors:&lt;/strong> Biswas, A., Mir, H., Sultana, N., Shozol, S. A., &amp;amp; Talukder, M. U.&lt;/li>
+&lt;li>&lt;strong>Conference:&lt;/strong> &lt;em>International Crisis and Risk Communication Conference (ICRCC)&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Date:&lt;/strong> March 2025&lt;/li>
+&lt;li>&lt;strong>Location:&lt;/strong> Clemson University, Clemson, South Carolina, USA&lt;/li>
+&lt;li>&lt;strong>Contribution:&lt;/strong> Developed research framework, conducted topic modeling, authored Method and Result chapters, and contributed to writing materials.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="heading" id="2-communicating-health-framing-health-related-news-in-developed-and-least-developed-countries-during-covid-19">
+ 2. &lt;strong>Communicating Health: Framing Health-Related News in Developed and Least Developed Countries During COVID-19&lt;/strong>
+ &lt;a class="anchor" href="#2-communicating-health-framing-health-related-news-in-developed-and-least-developed-countries-during-covid-19">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Authors:&lt;/strong> Tasnim, F., Hasib, M., Shozol, S. A., Sultana, N., Akil, M., &amp;amp; Biswas, A.&lt;/li>
+&lt;li>&lt;strong>Conference:&lt;/strong> &lt;em>Canadian Communication Association&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Date:&lt;/strong> June 2025&lt;/li>
+&lt;li>&lt;strong>Location:&lt;/strong> George Brown College, Toronto, Ontario&lt;/li>
+&lt;li>&lt;strong>Contribution:&lt;/strong> Performed data scraping, wrote Method and Result chapters, conducted analysis and topic modeling.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="heading" id="3-framing-russia-ukraine-war-in-the-newspapers-of-bangladesh-a-topic-modeling-approach">
+ 3. &lt;strong>Framing Russia-Ukraine War in the Newspapers of Bangladesh: A Topic Modeling Approach&lt;/strong>
+ &lt;a class="anchor" href="#3-framing-russia-ukraine-war-in-the-newspapers-of-bangladesh-a-topic-modeling-approach">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Authors:&lt;/strong> Nath, C. D., Biswas, A., Sultana, N., &amp;amp; Shozol, S. A.&lt;/li>
+&lt;li>&lt;strong>Journal:&lt;/strong> &lt;em>South Asian Journal of Social Sciences and Humanities&lt;/em>, &lt;strong>5(2)&lt;/strong>, 252–267&lt;/li>
+&lt;li>&lt;strong>Date:&lt;/strong> 2024&lt;/li>
+&lt;li>&lt;strong>DOI:&lt;/strong> &lt;a href="https://doi.org/10.48165/sajssh.2024.5215">10.48165/sajssh.2024.5215&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Contribution:&lt;/strong> Authored writing materials and Method chapter, performed news scraping and topic modeling analysis.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 class="heading" id="4-exploring-online-discourse-of-chatgpt-through-sentiment-analysis-and-topic-modelling">
+ 4. &lt;strong>Exploring Online Discourse of ChatGPT Through Sentiment Analysis and Topic Modelling&lt;/strong>
+ &lt;a class="anchor" href="#4-exploring-online-discourse-of-chatgpt-through-sentiment-analysis-and-topic-modelling">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Authors:&lt;/strong> Hasib, M., &amp;amp; Shozol, S. A.&lt;/li>
+&lt;li>&lt;strong>Conference:&lt;/strong> &lt;em>Promoting Cross-disciplinary Research&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Date:&lt;/strong> April 2024&lt;/li>
+&lt;li>&lt;strong>Location:&lt;/strong> Texas Tech University&lt;/li>
+&lt;li>&lt;strong>Format:&lt;/strong> Poster session&lt;/li>
+&lt;li>&lt;strong>Contribution:&lt;/strong> Conducted Twitter scraping, performed sentiment analysis and topic modeling, designed the poster, and contributed to writing and Method chapter.&lt;/li>
+&lt;/ul>
+&lt;hr></description></item></channel></rss>
